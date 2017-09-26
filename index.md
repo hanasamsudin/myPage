@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to My Testing Page
 
 You can use the [editor on GitHub](https://github.com/hanasamsudin/myPage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Obviously this is not my real page. I am still learning github.
+
+### About this GitHub
+
+I am keeping the other notation so I know where to come back to later.
+And as you can see, I am very much clueless of how to use this tool. I don't event understand why there is a follower and following option on my dashboard (if the name is really it... LOL)
 
 ### Markdown
 
